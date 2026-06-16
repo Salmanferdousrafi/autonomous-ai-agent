@@ -4,37 +4,37 @@ A sophisticated multi-agent AI system built with Python, FastAPI, and LangGraph.
 
 ## Features
 
-### 🤖 Multi-Agent System
+###  Multi-Agent System
 - Hierarchical agent architecture with specialized agents
 - Autonomous agent coordination and collaboration
 - Dynamic agent spawning and management
 - Inter-agent communication via message bus
 
-### 💾 Memory Layer
+###  Memory Layer
 - Short-term memory (context window)
 - Long-term episodic memory (vector DB)
 - Semantic memory (knowledge graph)
 - Procedural memory (learned patterns)
 
-### 🔧 Tool Calling Framework
+###  Tool Calling Framework
 - Dynamic tool registration and discovery
 - Asynchronous tool execution
 - Tool composition and chaining
 - Error handling and tool fallbacks
 
-### 🌐 Browser Automation
+###  Browser Automation
 - Selenium/Playwright integration
 - Autonomous web browsing
 - Data extraction and scraping
 - Screenshot analysis
 
-### 🎤 Voice Interaction
+###  Voice Interaction
 - Text-to-speech (TTS) synthesis
 - Speech-to-text (STT) recognition
 - Voice command processing
 - Audio streaming
 
-### 📊 Knowledge Graph
+###  Knowledge Graph
 - Dynamic entity and relationship management
 - Graph-based reasoning
 - Entity linking and resolution
